@@ -1,0 +1,10 @@
+
+$link-color: red;
+$font-size: 15px;
+
+body {
+  color: $link-color;
+  font-size: $font-size;
+  filter: blur(3px);
+}
+
